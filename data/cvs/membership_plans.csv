@@ -1,0 +1,4 @@
+plan_code,plan_name,monthly_price,wash_tier,is_active,_loaded_at
+BASIC,Basic Wash,14.99,BASIC,TRUE,2026-03-10 09:00:23
+DELUXE,Deluxe Wash,24.99,DELUXE,TRUE,2026-03-10 09:00:23
+ULTIMATE,Ultimate Wash,34.99,ULTIMATE,TRUE,2026-03-10 09:00:23

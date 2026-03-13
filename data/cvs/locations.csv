@@ -1,0 +1,9 @@
+location_id,location_name,city,state,opened_date,is_active,_loaded_at
+LOC001,Indianapolis North,Indianapolis,IN,2019-03-15,TRUE,2026-03-10 09:00:23
+LOC002,Indianapolis South,Indianapolis,IN,2020-07-01,TRUE,2026-03-10 09:00:23
+LOC003,Columbus East,Columbus,OH,2021-02-20,TRUE,2026-03-10 09:00:23
+LOC004,Minneapolis West,Minneapolis,MN,2022-05-10,TRUE,2026-03-10 09:00:23
+LOC005,Chicago Loop,Chicago,IL,2023-01-08,TRUE,2026-03-10 09:00:23
+LOC006,St. Louis Central,St. Louis,MO,2021-09-14,TRUE,2026-03-10 09:00:23
+LOC007,Milwaukee North,Milwaukee,WI,2022-11-03,TRUE,2026-03-10 09:00:23
+LOC008,Cincinnati West,Cincinnati,OH,2023-03-22,TRUE,2026-03-10 09:00:23
